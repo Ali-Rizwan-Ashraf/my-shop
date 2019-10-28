@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  website:
+    #image: php:apache
+    
+    image: 6162/my-shop
+    build: ./src
+    volumes:
+      - ./src:/var/www/html
+    ports:
+      - 5000:80
+    tty: true
