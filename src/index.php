@@ -6,10 +6,10 @@
     <body>
         <h1>Welcome to my shop</h1>
         <p1>
-	        consider it Yours...well, I'm kidding... but still Enjoy.
-	    </p1>
-        <p1>
-	        So, wanna Buy something??
+	        Consider it Yours...well, I'm kidding... but still Enjoy.
+            <br> So,wanna buy something???
+            <br> NO?
+            <br> Then get Lost.
 	    </p1>
     </body>
 </html>
