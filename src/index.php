@@ -10,7 +10,8 @@
             <br> So,wanna buy something???
             <br> NO?
             <br> Then get Lost.
-            <br> Haha... I'm kidding, or maybe not
+            <br> Haha... I'm kidding
+            <br> or maybe not
 	    </p1>
     </body>
 </html>
