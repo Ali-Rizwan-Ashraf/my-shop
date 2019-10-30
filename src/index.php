@@ -11,7 +11,7 @@
             <br> NO?
             <br> Then get Lost.
             <br> Haha... I'm kidding
-            <br> or maybe not
+            <br> or Maybe Not
 	    </p1>
     </body>
 </html>
