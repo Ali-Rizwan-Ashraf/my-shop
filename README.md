@@ -9,3 +9,5 @@ In this 12 minute video, I introduce Docker and show you how to build and image 
 This directory contains the source code from the tutorial.
 
 Big thanks to this guy
+
+Hust about to test for 2 continues deployments
