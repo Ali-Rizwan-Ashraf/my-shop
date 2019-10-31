@@ -16,6 +16,7 @@
 	    <br>
 	    <br>
 	    <br>Shop Owner: Ali Rizwan
+	    <br>Contact: XYZ
 	    </p1>
     </body>
 </html>
