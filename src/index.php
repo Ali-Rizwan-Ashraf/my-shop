@@ -6,7 +6,16 @@
     <body>
         <h1>Welcome to my shop</h1>
         <p1>
-	        consider it Yours...well, I'm kidding... but still Enjoy.
+	        Consider it Yours...well, I'm kidding... but still Enjoy.
+            <br> So,wanna buy something???
+            <br> NO?
+            <br> Then get Lost.
+            <br> Haha... I'm kidding
+	        <br> or Maybe Not
+	        <br>
+	        <br>
+	        <br>
+	        <br>Shop Owner: Ali Rizwan
 	    </p1>
     </body>
 </html>

@@ -1,3 +1,5 @@
+#base-image
 FROM php:apache
 COPY . /var/www/html/
-#EXPOSE 80
+#exposing port
+EXPOSE 80
