@@ -10,12 +10,13 @@
             <br> So,wanna buy something???
             <br> NO?
             <br> Then get Lost.
-            <br> Haha... I'm kidding
+            <br> Haha... I'm just kidding
 	        <br> or Maybe Not
 	        <br>
 	        <br>
 	        <br>
-	        <br>Shop Owner: Ali Rizwan
+		<br>Shop Owner: Ali Rizwan
+		<br>Organization: AlphaBold
 	    </p1>
     </body>
 </html>
