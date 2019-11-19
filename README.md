@@ -10,4 +10,4 @@ This directory contains the source code from the tutorial.
 
 Big thanks to this guy
 
-Hust about to test for 2 continues deployments
+Just about to test for 2 continues deployments
